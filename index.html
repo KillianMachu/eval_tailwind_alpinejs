@@ -3,89 +3,15 @@
 
 <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <link rel="icon" type="image/svg+xml" href="/images/logo.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite App</title>
 </head>
 
 <body>
     <div id="app" x-data="Recipes('./src/data/recipes.json')">
-        <header class="bg-gray-100 text-black py-4 px-8 shadow-md relative z-20"
-            x-data="{ showNav: window.matchMedia('(min-width: 1024px)').matches }">
-            <div class="flex justify-between items-center">
-                <h1 class="text-3xl font-medium uppercase text-orange-500">Recettes</h1>
-
-                <button @click="showNav = !showNav" class="lg:hidden block focus:outline-none z-30">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                        stroke="currentColor" class="w-6 h-6">
-                        <path stroke-linecap="round" stroke-linejoin="round"
-                            d="M3.75 6.75h16.5M3.75 12h16.5M12 17.25h8.25" />
-                    </svg>
-                </button>
-
-                <nav class="absolute top-12 left-0 bg-gray-100 w-full lg:w-auto lg:static lg:flex lg:space-x-10 transition-transform duration-300 ease-in-out z-10"
-                    x-show="showNav" x-transition:enter="transition transform duration-300 ease-in-out"
-                    x-transition:enter-start="-translate-y-full opacity-0"
-                    x-transition:enter-end="translate-y-0 opacity-100"
-                    x-transition:leave="transition transform duration-300 ease-in-out"
-                    x-transition:leave-start="translate-y-0 opacity-100"
-                    x-transition:leave-end="-translate-y-full opacity-0">
-                    <a href="#" class="block px-8 py-2 hover:text-gray-500 lg:py-0 lg:px-4">Recettes</a>
-                    <a href="#" class="block px-8 py-2 hover:text-gray-500 lg:py-0 lg:px-4">Contact</a>
-                    <span class="block px-8 py-2 lg:py-0 lg:px-4">Total : <span x-text="nbRecipes"></span>
-                        recettes</span>
-                </nav>
-            </div>
-        </header>
-        <div class="max-w-[1600px] mx-auto px-8">
-            <div class="flex gap-8 py-8 items-center">
-                <p>Filtrer :</p>
-                <select class="bg-gray-50 border border-gray-300 text-gray-900 rounded-lg focus:border-blue-500 p-2.5 "
-                    name="difficulty" id="difficulty" x-model="currentDifficulty" @change="updateItems">
-                    <option value="">Choisir une difficulté</option>
-                    <template x-for="difficulty in difficulties">
-                        <option :value="difficulty" x-text="difficulty"></option>
-                    </template>
-                </select>
-            </div>
-            <h2 class="text-center text-lg">Total : <span x-text="nbItems"></span> recettes</h2>
-            <template x-if="!nbRecipes || nbRecipes === 0">
-                <p class="text-center font-bold p-8 text-lg">Aucune recette trouvée.</p>
-            </template>
-            <template x-if="nbRecipes && nbRecipes > 0">
-                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 py-8">
-                    <template x-for="recipe in items">
-                        <div
-                            class="relative bg-white rounded-xl shadow overflow-hidden transition-all duration-300 ease-in-out transform hover:scale-105">
-                            <img :src="recipe.imageUrl" alt="Image de la recette" class="w-full h-48 object-cover">
-                            <div class="text-center p-6">
-                                <h2 class="text-2xl font-semibold text-orange-500 mb-2" x-text="recipe.title"></h2>
-                                <div class="flex justify-center items-center gap-6 capitalize">
-                                    <div class="flex items-center gap-2">
-                                        <svg xmlns="http://www.w3.org/2000/svg"
-                                            :class="{'text-green-500': recipe.difficulty=='facile', 'text-orange-500': recipe.difficulty=='moyenne', 'text-red-500': recipe.difficulty=='difficile'}"
-                                            class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
-                                            <circle cx="10" cy="10" r="8" fill="currentColor" />
-                                        </svg>
-                                        <span x-text="recipe.difficulty"></span>
-                                    </div>
-                                    <div class="flex items-center gap-2">
-                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                                            strokeWidth={1.5} stroke="currentColor" className="size-6">
-                                            <path strokeLinecap="round" strokeLinejoin="round"
-                                                d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
-                                        </svg>
-                                        <span x-text="recipe.preparationTime + ' min'"></span>
-                                    </div>
-                                </div>
-                                <p class="text-sm text-gray-500 mt-4 capitalize" x-text="recipe.category"></p>
-                                <button class="mt-4 bg-orange-400 text-white rounded-md px-4 py-2">Voir la recette</button>
-                            </div>
-                        </div>
-                    </template>
-                </div>
-            </template>
-        </div>
+        <load src="./src/parts/header.html" />
+        <load src="./src/parts/content.html" />
     </div>
     <script type="module" src="/src/main.js"></script>
 </body>
