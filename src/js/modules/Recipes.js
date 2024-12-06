@@ -65,6 +65,7 @@ export default function Recipes(jsonFile) {
             return this.items
         },
 
+        // filtrer selon les difficultés
         filterByDifficulty(recipe) {
             if (this.currentDifficulty === '') {
                 return true
@@ -74,6 +75,7 @@ export default function Recipes(jsonFile) {
             }
         },
 
+        // filtrer selon le temps de préparation
         filterByPrepTime(recipe) {
             if (this.currentPrepTime === '') {
                 return true
@@ -90,6 +92,7 @@ export default function Recipes(jsonFile) {
             return true;
         },
 
+        // filtrer selon les catégories
         filterByCategory(recipe) {
             if (this.currentCategory === '') {
                 return true
@@ -97,6 +100,7 @@ export default function Recipes(jsonFile) {
             return recipe.category === this.currentCategory;
         },
 
+        // filtrer selon la recherche
         filterBySearchQuery(recipe) {
             if (this.searchQuery === '') {
                 return true
