@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8"/>
+    <link rel="icon" type="image/svg+xml" href="/vite.svg"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Vite App</title>
+</head>
+<body>
+<div id="app">
+    <header class="bg-gray-100 text-black py-4 px-8 shadow-md" x-data="{ showNav: false, recipesCount: 50 }">
+        <div class="flex justify-between items-center">
+            <h1 class="text-2xl font-bold">Recettes</h1>
+            <button 
+                @click="showNav = !showNav" 
+                class="lg:hidden block focus:outline-none"
+            >
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+                </svg>
+            </button>
+            <nav class="hidden lg:flex space-x-4">
+                <a href="#" class="hover:text-gray-300">Accueil</a>
+                <a href="#" class="hover:text-gray-300">Recettes</a>
+                <a href="#" class="hover:text-gray-300">Contact</a>
+                <span>Total : <span x-text="recipesCount"></span> recettes</span>
+            </nav>
+        </div>
+        <div 
+            class="lg:hidden mt-4 bg-gray-700 rounded shadow p-4 space-y-2" 
+            x-show="showNav" 
+            @click.away="showNav = false"
+        >
+            <a href="#" class="block hover:text-gray-300">Accueil</a>
+            <a href="#" class="block hover:text-gray-300">Recettes</a>
+            <a href="#" class="block hover:text-gray-300">Contact</a>
+            <span>Total : <span x-text="recipesCount"></span> recettes</span>
+        </div>
+    </header>
+</div>
+<script type="module" src="/src/main.js"></script>
+</body>
+</html>

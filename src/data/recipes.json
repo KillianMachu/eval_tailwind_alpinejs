@@ -1,0 +1,1702 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Purée de pommes de terre",
+      "difficulty": "difficile",
+      "preparationTime": 89,
+      "servings": 5,
+      "category": "accompagnement",
+      "ingredients": [
+        {
+          "name": "fromage",
+          "quantity": "352",
+          "unit": "kg"
+        },
+        {
+          "name": "riz",
+          "quantity": "209",
+          "unit": "pièces"
+        },
+        {
+          "name": "pommes de terre",
+          "quantity": "363",
+          "unit": "l"
+        },
+        {
+          "name": "pommes de terre",
+          "quantity": "212",
+          "unit": "c. à café"
+        },
+        {
+          "name": "riz",
+          "quantity": "127",
+          "unit": "c. à café"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer riz.",
+        "Étape 2: Préparer riz.",
+        "Étape 3: Préparer pommes de terre."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-1/400/300"
+    },
+    {
+      "id": 2,
+      "title": "Tiramisu",
+      "difficulty": "difficile",
+      "preparationTime": 57,
+      "servings": 7,
+      "category": "dessert",
+      "ingredients": [
+        {
+          "name": "farine",
+          "quantity": "387",
+          "unit": "pièces"
+        },
+        {
+          "name": "sucre",
+          "quantity": "123",
+          "unit": "g"
+        },
+        {
+          "name": "chocolat",
+          "quantity": "430",
+          "unit": "kg"
+        },
+        {
+          "name": "farine",
+          "quantity": "278",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer lait.",
+        "Étape 2: Préparer œufs.",
+        "Étape 3: Préparer sucre.",
+        "Étape 4: Préparer sucre."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-2/400/300"
+    },
+    {
+      "id": 3,
+      "title": "Smoothie fraise-banane",
+      "difficulty": "moyenne",
+      "preparationTime": 94,
+      "servings": 1,
+      "category": "boisson",
+      "ingredients": [
+        {
+          "name": "eau",
+          "quantity": "121",
+          "unit": "c. à café"
+        },
+        {
+          "name": "eau",
+          "quantity": "451",
+          "unit": "c. à soupe"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer citrons.",
+        "Étape 2: Préparer eau.",
+        "Étape 3: Préparer fraises."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-3/400/300"
+    },
+    {
+      "id": 4,
+      "title": "Salade César",
+      "difficulty": "difficile",
+      "preparationTime": 116,
+      "servings": 8,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "tomates",
+          "quantity": "282",
+          "unit": "pièces"
+        },
+        {
+          "name": "ail",
+          "quantity": "154",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer ail.",
+        "Étape 2: Préparer pain."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-4/400/300"
+    },
+    {
+      "id": 5,
+      "title": "Clafoutis aux cerises",
+      "difficulty": "moyenne",
+      "preparationTime": 116,
+      "servings": 3,
+      "category": "dessert",
+      "ingredients": [
+        {
+          "name": "œufs",
+          "quantity": "329",
+          "unit": "kg"
+        },
+        {
+          "name": "lait",
+          "quantity": "343",
+          "unit": "kg"
+        },
+        {
+          "name": "lait",
+          "quantity": "29",
+          "unit": "kg"
+        },
+        {
+          "name": "lait",
+          "quantity": "302",
+          "unit": "pièces"
+        },
+        {
+          "name": "farine",
+          "quantity": "470",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer sucre.",
+        "Étape 2: Préparer chocolat."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-5/400/300"
+    },
+    {
+      "id": 6,
+      "title": "Smoothie fraise-banane",
+      "difficulty": "difficile",
+      "preparationTime": 18,
+      "servings": 3,
+      "category": "boisson",
+      "ingredients": [
+        {
+          "name": "citrons",
+          "quantity": "156",
+          "unit": "g"
+        },
+        {
+          "name": "sucre",
+          "quantity": "339",
+          "unit": "pièces"
+        },
+        {
+          "name": "eau",
+          "quantity": "404",
+          "unit": "ml"
+        },
+        {
+          "name": "fraises",
+          "quantity": "424",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer citrons.",
+        "Étape 2: Préparer menthe."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-6/400/300"
+    },
+    {
+      "id": 7,
+      "title": "Poulet basquaise",
+      "difficulty": "moyenne",
+      "preparationTime": 109,
+      "servings": 2,
+      "category": "plat",
+      "ingredients": [
+        {
+          "name": "bœuf",
+          "quantity": "383",
+          "unit": "c. à café"
+        },
+        {
+          "name": "bœuf",
+          "quantity": "81",
+          "unit": "c. à café"
+        },
+        {
+          "name": "poulet",
+          "quantity": "212",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "pâtes",
+          "quantity": "354",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer bœuf.",
+        "Étape 2: Préparer carottes.",
+        "Étape 3: Préparer poulet."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-7/400/300"
+    },
+    {
+      "id": 8,
+      "title": "Crème brûlée",
+      "difficulty": "facile",
+      "preparationTime": 102,
+      "servings": 6,
+      "category": "dessert",
+      "ingredients": [
+        {
+          "name": "sucre",
+          "quantity": "102",
+          "unit": "kg"
+        },
+        {
+          "name": "chocolat",
+          "quantity": "71",
+          "unit": "ml"
+        },
+        {
+          "name": "lait",
+          "quantity": "359",
+          "unit": "ml"
+        },
+        {
+          "name": "chocolat",
+          "quantity": "260",
+          "unit": "g"
+        },
+        {
+          "name": "sucre",
+          "quantity": "186",
+          "unit": "kg"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer œufs.",
+        "Étape 2: Préparer sucre.",
+        "Étape 3: Préparer sucre."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-8/400/300"
+    },
+    {
+      "id": 9,
+      "title": "Riz pilaf",
+      "difficulty": "facile",
+      "preparationTime": 120,
+      "servings": 2,
+      "category": "accompagnement",
+      "ingredients": [
+        {
+          "name": "poivre",
+          "quantity": "307",
+          "unit": "c. à café"
+        },
+        {
+          "name": "fromage",
+          "quantity": "238",
+          "unit": "pièces"
+        },
+        {
+          "name": "riz",
+          "quantity": "5",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "fromage",
+          "quantity": "370",
+          "unit": "kg"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer pommes de terre.",
+        "Étape 2: Préparer beurre.",
+        "Étape 3: Préparer fromage.",
+        "Étape 4: Préparer riz."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-9/400/300"
+    },
+    {
+      "id": 10,
+      "title": "Tiramisu",
+      "difficulty": "moyenne",
+      "preparationTime": 67,
+      "servings": 3,
+      "category": "dessert",
+      "ingredients": [
+        {
+          "name": "œufs",
+          "quantity": "181",
+          "unit": "g"
+        },
+        {
+          "name": "chocolat",
+          "quantity": "58",
+          "unit": "g"
+        },
+        {
+          "name": "chocolat",
+          "quantity": "358",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer sucre.",
+        "Étape 2: Préparer chocolat."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-10/400/300"
+    },
+    {
+      "id": 11,
+      "title": "Ratatouille",
+      "difficulty": "moyenne",
+      "preparationTime": 34,
+      "servings": 4,
+      "category": "plat",
+      "ingredients": [
+        {
+          "name": "bœuf",
+          "quantity": "257",
+          "unit": "g"
+        },
+        {
+          "name": "poulet",
+          "quantity": "251",
+          "unit": "c. à café"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer pâtes.",
+        "Étape 2: Préparer pâtes."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-11/400/300"
+    },
+    {
+      "id": 12,
+      "title": "Mousse au chocolat",
+      "difficulty": "facile",
+      "preparationTime": 32,
+      "servings": 1,
+      "category": "dessert",
+      "ingredients": [
+        {
+          "name": "chocolat",
+          "quantity": "19",
+          "unit": "l"
+        },
+        {
+          "name": "lait",
+          "quantity": "256",
+          "unit": "l"
+        },
+        {
+          "name": "chocolat",
+          "quantity": "229",
+          "unit": "g"
+        },
+        {
+          "name": "œufs",
+          "quantity": "243",
+          "unit": "l"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer œufs.",
+        "Étape 2: Préparer œufs."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-12/400/300"
+    },
+    {
+      "id": 13,
+      "title": "Quiche Lorraine",
+      "difficulty": "moyenne",
+      "preparationTime": 116,
+      "servings": 4,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "pain",
+          "quantity": "381",
+          "unit": "l"
+        },
+        {
+          "name": "tomates",
+          "quantity": "424",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer oignons.",
+        "Étape 2: Préparer pain.",
+        "Étape 3: Préparer pain."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-13/400/300"
+    },
+    {
+      "id": 14,
+      "title": "Soupe à l'oignon",
+      "difficulty": "moyenne",
+      "preparationTime": 68,
+      "servings": 4,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "ail",
+          "quantity": "404",
+          "unit": "g"
+        },
+        {
+          "name": "pain",
+          "quantity": "5",
+          "unit": "l"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer lait.",
+        "Étape 2: Préparer pain."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-14/400/300"
+    },
+    {
+      "id": 15,
+      "title": "Mousse au chocolat",
+      "difficulty": "difficile",
+      "preparationTime": 102,
+      "servings": 1,
+      "category": "dessert",
+      "ingredients": [
+        {
+          "name": "chocolat",
+          "quantity": "198",
+          "unit": "g"
+        },
+        {
+          "name": "chocolat",
+          "quantity": "435",
+          "unit": "g"
+        },
+        {
+          "name": "sucre",
+          "quantity": "69",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer œufs.",
+        "Étape 2: Préparer lait.",
+        "Étape 3: Préparer farine."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-15/400/300"
+    },
+    {
+      "id": 16,
+      "title": "Gratin dauphinois",
+      "difficulty": "moyenne",
+      "preparationTime": 44,
+      "servings": 4,
+      "category": "accompagnement",
+      "ingredients": [
+        {
+          "name": "beurre",
+          "quantity": "349",
+          "unit": "c. à café"
+        },
+        {
+          "name": "fromage",
+          "quantity": "483",
+          "unit": "c. à café"
+        },
+        {
+          "name": "poivre",
+          "quantity": "392",
+          "unit": "l"
+        },
+        {
+          "name": "beurre",
+          "quantity": "264",
+          "unit": "g"
+        },
+        {
+          "name": "fromage",
+          "quantity": "256",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer poivre.",
+        "Étape 2: Préparer fromage.",
+        "Étape 3: Préparer fromage.",
+        "Étape 4: Préparer fromage."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-16/400/300"
+    },
+    {
+      "id": 17,
+      "title": "Tarte aux fraises",
+      "difficulty": "difficile",
+      "preparationTime": 119,
+      "servings": 2,
+      "category": "dessert",
+      "ingredients": [
+        {
+          "name": "œufs",
+          "quantity": "127",
+          "unit": "c. à café"
+        },
+        {
+          "name": "chocolat",
+          "quantity": "172",
+          "unit": "l"
+        },
+        {
+          "name": "sucre",
+          "quantity": "74",
+          "unit": "ml"
+        },
+        {
+          "name": "chocolat",
+          "quantity": "396",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer œufs.",
+        "Étape 2: Préparer farine.",
+        "Étape 3: Préparer farine.",
+        "Étape 4: Préparer lait."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-17/400/300"
+    },
+    {
+      "id": 18,
+      "title": "Purée de pommes de terre",
+      "difficulty": "moyenne",
+      "preparationTime": 96,
+      "servings": 3,
+      "category": "accompagnement",
+      "ingredients": [
+        {
+          "name": "fromage",
+          "quantity": "347",
+          "unit": "kg"
+        },
+        {
+          "name": "poivre",
+          "quantity": "109",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer fromage.",
+        "Étape 2: Préparer poivre.",
+        "Étape 3: Préparer pommes de terre.",
+        "Étape 4: Préparer riz."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-18/400/300"
+    },
+    {
+      "id": 19,
+      "title": "Smoothie fraise-banane",
+      "difficulty": "moyenne",
+      "preparationTime": 97,
+      "servings": 5,
+      "category": "boisson",
+      "ingredients": [
+        {
+          "name": "sucre",
+          "quantity": "465",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "eau",
+          "quantity": "395",
+          "unit": "kg"
+        },
+        {
+          "name": "menthe",
+          "quantity": "297",
+          "unit": "l"
+        },
+        {
+          "name": "eau",
+          "quantity": "208",
+          "unit": "l"
+        },
+        {
+          "name": "citrons",
+          "quantity": "360",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer citrons.",
+        "Étape 2: Préparer fraises."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-19/400/300"
+    },
+    {
+      "id": 20,
+      "title": "Lasagnes",
+      "difficulty": "difficile",
+      "preparationTime": 50,
+      "servings": 6,
+      "category": "plat",
+      "ingredients": [
+        {
+          "name": "bœuf",
+          "quantity": "450",
+          "unit": "c. à café"
+        },
+        {
+          "name": "bœuf",
+          "quantity": "396",
+          "unit": "c. à café"
+        },
+        {
+          "name": "carottes",
+          "quantity": "423",
+          "unit": "ml"
+        },
+        {
+          "name": "riz",
+          "quantity": "223",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer bœuf.",
+        "Étape 2: Préparer pâtes.",
+        "Étape 3: Préparer pâtes."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-20/400/300"
+    },
+    {
+      "id": 21,
+      "title": "Soupe à l'oignon",
+      "difficulty": "difficile",
+      "preparationTime": 112,
+      "servings": 3,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "lait",
+          "quantity": "316",
+          "unit": "l"
+        },
+        {
+          "name": "pain",
+          "quantity": "116",
+          "unit": "g"
+        },
+        {
+          "name": "oignons",
+          "quantity": "225",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer tomates.",
+        "Étape 2: Préparer tomates.",
+        "Étape 3: Préparer lait.",
+        "Étape 4: Préparer tomates."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-21/400/300"
+    },
+    {
+      "id": 22,
+      "title": "Poulet basquaise",
+      "difficulty": "facile",
+      "preparationTime": 12,
+      "servings": 2,
+      "category": "plat",
+      "ingredients": [
+        {
+          "name": "riz",
+          "quantity": "146",
+          "unit": "l"
+        },
+        {
+          "name": "pâtes",
+          "quantity": "207",
+          "unit": "ml"
+        },
+        {
+          "name": "carottes",
+          "quantity": "160",
+          "unit": "kg"
+        },
+        {
+          "name": "poulet",
+          "quantity": "2",
+          "unit": "l"
+        },
+        {
+          "name": "poulet",
+          "quantity": "106",
+          "unit": "kg"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer carottes.",
+        "Étape 2: Préparer poulet.",
+        "Étape 3: Préparer pâtes."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-22/400/300"
+    },
+    {
+      "id": 23,
+      "title": "Bruschetta",
+      "difficulty": "difficile",
+      "preparationTime": 117,
+      "servings": 6,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "tomates",
+          "quantity": "23",
+          "unit": "l"
+        },
+        {
+          "name": "pain",
+          "quantity": "403",
+          "unit": "g"
+        },
+        {
+          "name": "oignons",
+          "quantity": "289",
+          "unit": "kg"
+        },
+        {
+          "name": "lait",
+          "quantity": "412",
+          "unit": "kg"
+        },
+        {
+          "name": "ail",
+          "quantity": "412",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer ail.",
+        "Étape 2: Préparer oignons.",
+        "Étape 3: Préparer pain."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-23/400/300"
+    },
+    {
+      "id": 24,
+      "title": "Poulet basquaise",
+      "difficulty": "difficile",
+      "preparationTime": 61,
+      "servings": 7,
+      "category": "plat",
+      "ingredients": [
+        {
+          "name": "carottes",
+          "quantity": "68",
+          "unit": "pièces"
+        },
+        {
+          "name": "pâtes",
+          "quantity": "9",
+          "unit": "kg"
+        },
+        {
+          "name": "poulet",
+          "quantity": "275",
+          "unit": "ml"
+        },
+        {
+          "name": "carottes",
+          "quantity": "271",
+          "unit": "c. à soupe"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer bœuf.",
+        "Étape 2: Préparer pâtes.",
+        "Étape 3: Préparer poulet."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-24/400/300"
+    },
+    {
+      "id": 25,
+      "title": "Limonade maison",
+      "difficulty": "facile",
+      "preparationTime": 50,
+      "servings": 3,
+      "category": "boisson",
+      "ingredients": [
+        {
+          "name": "eau",
+          "quantity": "88",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "eau",
+          "quantity": "18",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer menthe.",
+        "Étape 2: Préparer citrons."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-25/400/300"
+    },
+    {
+      "id": 26,
+      "title": "Gratin dauphinois",
+      "difficulty": "difficile",
+      "preparationTime": 105,
+      "servings": 4,
+      "category": "accompagnement",
+      "ingredients": [
+        {
+          "name": "riz",
+          "quantity": "145",
+          "unit": "ml"
+        },
+        {
+          "name": "riz",
+          "quantity": "128",
+          "unit": "l"
+        },
+        {
+          "name": "riz",
+          "quantity": "150",
+          "unit": "l"
+        },
+        {
+          "name": "poivre",
+          "quantity": "380",
+          "unit": "ml"
+        },
+        {
+          "name": "beurre",
+          "quantity": "138",
+          "unit": "c. à soupe"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer riz.",
+        "Étape 2: Préparer beurre.",
+        "Étape 3: Préparer pommes de terre."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-26/400/300"
+    },
+    {
+      "id": 27,
+      "title": "Purée de pommes de terre",
+      "difficulty": "moyenne",
+      "preparationTime": 13,
+      "servings": 1,
+      "category": "accompagnement",
+      "ingredients": [
+        {
+          "name": "beurre",
+          "quantity": "341",
+          "unit": "pièces"
+        },
+        {
+          "name": "pommes de terre",
+          "quantity": "252",
+          "unit": "kg"
+        },
+        {
+          "name": "fromage",
+          "quantity": "153",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer beurre.",
+        "Étape 2: Préparer riz."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-27/400/300"
+    },
+    {
+      "id": 28,
+      "title": "Bruschetta",
+      "difficulty": "moyenne",
+      "preparationTime": 60,
+      "servings": 7,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "oignons",
+          "quantity": "414",
+          "unit": "kg"
+        },
+        {
+          "name": "lait",
+          "quantity": "319",
+          "unit": "pièces"
+        },
+        {
+          "name": "oignons",
+          "quantity": "229",
+          "unit": "kg"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer ail.",
+        "Étape 2: Préparer ail."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-28/400/300"
+    },
+    {
+      "id": 29,
+      "title": "Thé glacé",
+      "difficulty": "moyenne",
+      "preparationTime": 89,
+      "servings": 4,
+      "category": "boisson",
+      "ingredients": [
+        {
+          "name": "sucre",
+          "quantity": "54",
+          "unit": "c. à café"
+        },
+        {
+          "name": "sucre",
+          "quantity": "430",
+          "unit": "l"
+        },
+        {
+          "name": "menthe",
+          "quantity": "88",
+          "unit": "kg"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer menthe.",
+        "Étape 2: Préparer sucre.",
+        "Étape 3: Préparer fraises.",
+        "Étape 4: Préparer citrons."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-29/400/300"
+    },
+    {
+      "id": 30,
+      "title": "Légumes rôtis",
+      "difficulty": "difficile",
+      "preparationTime": 86,
+      "servings": 6,
+      "category": "accompagnement",
+      "ingredients": [
+        {
+          "name": "beurre",
+          "quantity": "108",
+          "unit": "c. à café"
+        },
+        {
+          "name": "pommes de terre",
+          "quantity": "263",
+          "unit": "c. à café"
+        },
+        {
+          "name": "pommes de terre",
+          "quantity": "81",
+          "unit": "l"
+        },
+        {
+          "name": "fromage",
+          "quantity": "361",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer pommes de terre.",
+        "Étape 2: Préparer poivre."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-30/400/300"
+    },
+    {
+      "id": 31,
+      "title": "Soupe à l'oignon",
+      "difficulty": "difficile",
+      "preparationTime": 35,
+      "servings": 2,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "tomates",
+          "quantity": "271",
+          "unit": "kg"
+        },
+        {
+          "name": "lait",
+          "quantity": "240",
+          "unit": "c. à café"
+        },
+        {
+          "name": "oignons",
+          "quantity": "342",
+          "unit": "kg"
+        },
+        {
+          "name": "lait",
+          "quantity": "382",
+          "unit": "g"
+        },
+        {
+          "name": "oignons",
+          "quantity": "196",
+          "unit": "l"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer ail.",
+        "Étape 2: Préparer ail.",
+        "Étape 3: Préparer pain."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-31/400/300"
+    },
+    {
+      "id": 32,
+      "title": "Bruschetta",
+      "difficulty": "facile",
+      "preparationTime": 105,
+      "servings": 5,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "ail",
+          "quantity": "306",
+          "unit": "kg"
+        },
+        {
+          "name": "lait",
+          "quantity": "454",
+          "unit": "kg"
+        },
+        {
+          "name": "pain",
+          "quantity": "261",
+          "unit": "l"
+        },
+        {
+          "name": "oignons",
+          "quantity": "293",
+          "unit": "g"
+        },
+        {
+          "name": "tomates",
+          "quantity": "70",
+          "unit": "c. à café"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer pain.",
+        "Étape 2: Préparer ail.",
+        "Étape 3: Préparer oignons."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-32/400/300"
+    },
+    {
+      "id": 33,
+      "title": "Salade César",
+      "difficulty": "difficile",
+      "preparationTime": 118,
+      "servings": 5,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "oignons",
+          "quantity": "381",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "tomates",
+          "quantity": "176",
+          "unit": "ml"
+        },
+        {
+          "name": "ail",
+          "quantity": "391",
+          "unit": "c. à soupe"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer pain.",
+        "Étape 2: Préparer oignons.",
+        "Étape 3: Préparer tomates."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-33/400/300"
+    },
+    {
+      "id": 34,
+      "title": "Velouté de potiron",
+      "difficulty": "moyenne",
+      "preparationTime": 57,
+      "servings": 4,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "tomates",
+          "quantity": "120",
+          "unit": "kg"
+        },
+        {
+          "name": "pain",
+          "quantity": "190",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "oignons",
+          "quantity": "234",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "lait",
+          "quantity": "342",
+          "unit": "c. à café"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer lait.",
+        "Étape 2: Préparer ail.",
+        "Étape 3: Préparer tomates.",
+        "Étape 4: Préparer ail."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-34/400/300"
+    },
+    {
+      "id": 35,
+      "title": "Lasagnes",
+      "difficulty": "moyenne",
+      "preparationTime": 90,
+      "servings": 7,
+      "category": "plat",
+      "ingredients": [
+        {
+          "name": "poulet",
+          "quantity": "337",
+          "unit": "g"
+        },
+        {
+          "name": "riz",
+          "quantity": "452",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer poulet.",
+        "Étape 2: Préparer carottes.",
+        "Étape 3: Préparer poulet.",
+        "Étape 4: Préparer riz."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-35/400/300"
+    },
+    {
+      "id": 36,
+      "title": "Thé glacé",
+      "difficulty": "facile",
+      "preparationTime": 21,
+      "servings": 5,
+      "category": "boisson",
+      "ingredients": [
+        {
+          "name": "citrons",
+          "quantity": "230",
+          "unit": "g"
+        },
+        {
+          "name": "sucre",
+          "quantity": "452",
+          "unit": "ml"
+        },
+        {
+          "name": "citrons",
+          "quantity": "472",
+          "unit": "pièces"
+        },
+        {
+          "name": "eau",
+          "quantity": "485",
+          "unit": "kg"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer fraises.",
+        "Étape 2: Préparer eau.",
+        "Étape 3: Préparer sucre.",
+        "Étape 4: Préparer sucre."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-36/400/300"
+    },
+    {
+      "id": 37,
+      "title": "Velouté de potiron",
+      "difficulty": "facile",
+      "preparationTime": 20,
+      "servings": 6,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "oignons",
+          "quantity": "188",
+          "unit": "pièces"
+        },
+        {
+          "name": "tomates",
+          "quantity": "494",
+          "unit": "kg"
+        },
+        {
+          "name": "oignons",
+          "quantity": "303",
+          "unit": "pièces"
+        },
+        {
+          "name": "pain",
+          "quantity": "130",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer ail.",
+        "Étape 2: Préparer ail.",
+        "Étape 3: Préparer lait."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-37/400/300"
+    },
+    {
+      "id": 38,
+      "title": "Bruschetta",
+      "difficulty": "facile",
+      "preparationTime": 23,
+      "servings": 1,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "tomates",
+          "quantity": "214",
+          "unit": "g"
+        },
+        {
+          "name": "pain",
+          "quantity": "388",
+          "unit": "ml"
+        },
+        {
+          "name": "ail",
+          "quantity": "200",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer lait.",
+        "Étape 2: Préparer tomates.",
+        "Étape 3: Préparer pain.",
+        "Étape 4: Préparer lait."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-38/400/300"
+    },
+    {
+      "id": 39,
+      "title": "Curry de légumes",
+      "difficulty": "facile",
+      "preparationTime": 29,
+      "servings": 4,
+      "category": "plat",
+      "ingredients": [
+        {
+          "name": "bœuf",
+          "quantity": "495",
+          "unit": "l"
+        },
+        {
+          "name": "riz",
+          "quantity": "484",
+          "unit": "pièces"
+        },
+        {
+          "name": "carottes",
+          "quantity": "189",
+          "unit": "c. à café"
+        },
+        {
+          "name": "poulet",
+          "quantity": "383",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer pâtes.",
+        "Étape 2: Préparer pâtes."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-39/400/300"
+    },
+    {
+      "id": 40,
+      "title": "Frites maison",
+      "difficulty": "moyenne",
+      "preparationTime": 62,
+      "servings": 2,
+      "category": "accompagnement",
+      "ingredients": [
+        {
+          "name": "fromage",
+          "quantity": "102",
+          "unit": "g"
+        },
+        {
+          "name": "beurre",
+          "quantity": "295",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer beurre.",
+        "Étape 2: Préparer riz.",
+        "Étape 3: Préparer fromage.",
+        "Étape 4: Préparer pommes de terre."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-40/400/300"
+    },
+    {
+      "id": 41,
+      "title": "Smoothie fraise-banane",
+      "difficulty": "facile",
+      "preparationTime": 115,
+      "servings": 7,
+      "category": "boisson",
+      "ingredients": [
+        {
+          "name": "menthe",
+          "quantity": "173",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "eau",
+          "quantity": "220",
+          "unit": "pièces"
+        },
+        {
+          "name": "menthe",
+          "quantity": "41",
+          "unit": "kg"
+        },
+        {
+          "name": "sucre",
+          "quantity": "456",
+          "unit": "kg"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer menthe.",
+        "Étape 2: Préparer citrons.",
+        "Étape 3: Préparer menthe.",
+        "Étape 4: Préparer sucre."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-41/400/300"
+    },
+    {
+      "id": 42,
+      "title": "Tarte aux fraises",
+      "difficulty": "difficile",
+      "preparationTime": 104,
+      "servings": 3,
+      "category": "dessert",
+      "ingredients": [
+        {
+          "name": "lait",
+          "quantity": "177",
+          "unit": "g"
+        },
+        {
+          "name": "lait",
+          "quantity": "317",
+          "unit": "kg"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer œufs.",
+        "Étape 2: Préparer lait.",
+        "Étape 3: Préparer chocolat."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-42/400/300"
+    },
+    {
+      "id": 43,
+      "title": "Chocolat chaud",
+      "difficulty": "difficile",
+      "preparationTime": 36,
+      "servings": 6,
+      "category": "boisson",
+      "ingredients": [
+        {
+          "name": "menthe",
+          "quantity": "390",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "sucre",
+          "quantity": "68",
+          "unit": "kg"
+        },
+        {
+          "name": "sucre",
+          "quantity": "343",
+          "unit": "c. à soupe"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer eau.",
+        "Étape 2: Préparer menthe."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-43/400/300"
+    },
+    {
+      "id": 44,
+      "title": "Salade César",
+      "difficulty": "difficile",
+      "preparationTime": 14,
+      "servings": 1,
+      "category": "entrée",
+      "ingredients": [
+        {
+          "name": "oignons",
+          "quantity": "365",
+          "unit": "kg"
+        },
+        {
+          "name": "ail",
+          "quantity": "252",
+          "unit": "c. à café"
+        },
+        {
+          "name": "lait",
+          "quantity": "200",
+          "unit": "c. à café"
+        },
+        {
+          "name": "oignons",
+          "quantity": "235",
+          "unit": "kg"
+        },
+        {
+          "name": "tomates",
+          "quantity": "65",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer pain.",
+        "Étape 2: Préparer pain."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-44/400/300"
+    },
+    {
+      "id": 45,
+      "title": "Légumes rôtis",
+      "difficulty": "difficile",
+      "preparationTime": 52,
+      "servings": 5,
+      "category": "accompagnement",
+      "ingredients": [
+        {
+          "name": "beurre",
+          "quantity": "143",
+          "unit": "l"
+        },
+        {
+          "name": "riz",
+          "quantity": "442",
+          "unit": "c. à café"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer beurre.",
+        "Étape 2: Préparer beurre.",
+        "Étape 3: Préparer poivre.",
+        "Étape 4: Préparer fromage."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-45/400/300"
+    },
+    {
+      "id": 46,
+      "title": "Frites maison",
+      "difficulty": "facile",
+      "preparationTime": 60,
+      "servings": 4,
+      "category": "accompagnement",
+      "ingredients": [
+        {
+          "name": "fromage",
+          "quantity": "467",
+          "unit": "pièces"
+        },
+        {
+          "name": "beurre",
+          "quantity": "71",
+          "unit": "l"
+        },
+        {
+          "name": "poivre",
+          "quantity": "194",
+          "unit": "ml"
+        },
+        {
+          "name": "poivre",
+          "quantity": "333",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer beurre.",
+        "Étape 2: Préparer riz."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-46/400/300"
+    },
+    {
+      "id": 47,
+      "title": "Mousse au chocolat",
+      "difficulty": "difficile",
+      "preparationTime": 109,
+      "servings": 1,
+      "category": "dessert",
+      "ingredients": [
+        {
+          "name": "œufs",
+          "quantity": "486",
+          "unit": "l"
+        },
+        {
+          "name": "lait",
+          "quantity": "241",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "farine",
+          "quantity": "127",
+          "unit": "l"
+        },
+        {
+          "name": "farine",
+          "quantity": "366",
+          "unit": "ml"
+        },
+        {
+          "name": "sucre",
+          "quantity": "436",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer œufs.",
+        "Étape 2: Préparer lait."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-47/400/300"
+    },
+    {
+      "id": 48,
+      "title": "Purée de pommes de terre",
+      "difficulty": "difficile",
+      "preparationTime": 76,
+      "servings": 4,
+      "category": "accompagnement",
+      "ingredients": [
+        {
+          "name": "beurre",
+          "quantity": "310",
+          "unit": "ml"
+        },
+        {
+          "name": "fromage",
+          "quantity": "240",
+          "unit": "g"
+        },
+        {
+          "name": "beurre",
+          "quantity": "102",
+          "unit": "pièces"
+        },
+        {
+          "name": "fromage",
+          "quantity": "494",
+          "unit": "l"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer fromage.",
+        "Étape 2: Préparer pommes de terre.",
+        "Étape 3: Préparer pommes de terre.",
+        "Étape 4: Préparer beurre."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-48/400/300"
+    },
+    {
+      "id": 49,
+      "title": "Thé glacé",
+      "difficulty": "facile",
+      "preparationTime": 94,
+      "servings": 8,
+      "category": "boisson",
+      "ingredients": [
+        {
+          "name": "citrons",
+          "quantity": "488",
+          "unit": "l"
+        },
+        {
+          "name": "sucre",
+          "quantity": "310",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "menthe",
+          "quantity": "402",
+          "unit": "c. à soupe"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer sucre.",
+        "Étape 2: Préparer menthe."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-49/400/300"
+    },
+    {
+      "id": 50,
+      "title": "Smoothie fraise-banane",
+      "difficulty": "difficile",
+      "preparationTime": 116,
+      "servings": 7,
+      "category": "boisson",
+      "ingredients": [
+        {
+          "name": "menthe",
+          "quantity": "111",
+          "unit": "c. à soupe"
+        },
+        {
+          "name": "menthe",
+          "quantity": "461",
+          "unit": "pièces"
+        },
+        {
+          "name": "fraises",
+          "quantity": "195",
+          "unit": "c. à café"
+        },
+        {
+          "name": "fraises",
+          "quantity": "98",
+          "unit": "pièces"
+        }
+      ],
+      "instructions": [
+        "Étape 1: Préparer fraises.",
+        "Étape 2: Préparer citrons.",
+        "Étape 3: Préparer menthe.",
+        "Étape 4: Préparer fraises."
+      ],
+      "imageUrl": "https://picsum.photos/seed/recipe-50/400/300"
+    }
+  ]
+}
